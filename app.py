@@ -1,3 +1,5 @@
+import random
+import request
 import streamlit as st
 import pickle
 import nltk
